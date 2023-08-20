@@ -11,6 +11,8 @@ Embark on an adventure of knowledge exploration! Skill Up offers a vast library 
 ## Getting Started 🚀
 The application is still a work in progress. ❌ ❌ ❌ ❌
 
+## Screenshots
+![Skill-Up](./web-view/web-view.png)
 
 ### Built with
 - React JS (Vite)
