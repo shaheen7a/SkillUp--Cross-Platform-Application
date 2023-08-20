@@ -11,6 +11,12 @@ Embark on an adventure of knowledge exploration! Skill Up offers a vast library 
 ## Getting Started 🚀
 The application is still a work in progress. ❌ ❌ ❌ ❌
 
+### Links (Beta)
+
+- App Download: [Netlify](https://skill-up-web-beta.netlify.app)
+
+- App URL: [Github](https://github.com/shaheen7a/SkillUp--Cross-Platform-Application-v1.0)
+
 ## Screenshots
 ![Skill-Up](./web-view/web-view.png)
 
