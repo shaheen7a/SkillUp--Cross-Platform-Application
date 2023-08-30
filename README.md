@@ -30,6 +30,7 @@ Stay tuned for the future improvements.
 ![Skill-Up](./web-view/android-view.png)
 
 ### Built with
+Web App:
 - React JS (Vite)
 - MUI
 - React Emotions
@@ -37,6 +38,15 @@ Stay tuned for the future improvements.
 - Infinite React Carousel
 - Heroicons
 - Tailwinds
+- JSX
+
+Android App:
+- React Native
+- React Navigation
+- React Native Fonts
+- Community Hooks
+- CSS
+- JavaScript
 - JSX
 
 
