@@ -16,8 +16,13 @@ Android App v1.0
 Stay tuned for the future improvements.
 ### Links (Beta)
 
+<<<<<<< HEAD
 - Web App Link: [Netlify](https://skill-up-web-beta.netlify.app)
 - Android App Download: [Dropbox]()
+=======
+- Live Web Deploy: [Netlify](https://skill-up-web-beta.netlify.app)
+
+>>>>>>> f38676ecea71c6ad72b069a615568cf2582a7e09
 - App URL: [Github](https://github.com/shaheen7a/SkillUp--Cross-Platform-Application-v1.0)
 
 ## Screenshots
