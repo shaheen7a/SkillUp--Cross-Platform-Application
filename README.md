@@ -9,16 +9,20 @@ Explore a world of knowledge and discover the skills that are most relevant to y
 Embark on an adventure of knowledge exploration! Skill Up offers a vast library of courses, tutorials, and learning materials, curated to cater to a wide range of interests and aspirations. From programming and design to wellness and arts, you'll find resources to nurture your curiosity.
 
 ## Getting Started 🚀
-The application is still a work in progress. ❌ ❌ ❌ ❌
+Beta Verison of Skill Up is available now.  ⬇️⬇️⬇️
+Web App v1.0
+Android App v1.0
 
+Stay tuned for the future improvements.
 ### Links (Beta)
 
-- App Download: [Netlify](https://skill-up-web-beta.netlify.app)
-
+- Web App Link: [Netlify](https://skill-up-web-beta.netlify.app)
+- Android App Download: [Dropbox]()
 - App URL: [Github](https://github.com/shaheen7a/SkillUp--Cross-Platform-Application-v1.0)
 
 ## Screenshots
 ![Skill-Up](./web-view/web-view.png)
+![Skill-Up](./web-view/android-view.png)
 
 ### Built with
 - React JS (Vite)
